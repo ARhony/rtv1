@@ -10,4 +10,4 @@ make
 ```
 
 # Next?
-It's not easy to change the scene settings, you need to go inside init.c file and change the parameters. More event will come soon like a click on a shape or the possiility to choose the 3D shape.
+It's not easy to change the scene settings, you need to go inside init.c file and change the parameters. More event will come soon like a click on a shape or the posibility to choose the 3D shape. Just a better way to create the scene you want.
