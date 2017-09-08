@@ -1,5 +1,5 @@
 # rtv1
-My first raytracer!
+My first raytracer! The scene can handle only 2 lights. Refraction and multiple shadows.
 
 ![screenshot](https://user-images.githubusercontent.com/24727426/30223945-239a28a6-94cd-11e7-8b4f-9bfd1bb1b95b.png)
 
@@ -12,4 +12,4 @@ make
 ```
 
 # Next?
-It's not easy to change the scene settings, you need to go inside init.c file and change the parameters. More event will come soon like a click on a shape or the posibility to choose the 3D shape. Just a better way to create the scene you want.
+It's not easy to change the scene settings, you need to go inside init.c file and change the parameters. More event will come soon like a click on a shape or the posibility to choose the 3D shape. Just a better way to create the scene you want. And so much more... :D
