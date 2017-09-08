@@ -1,6 +1,8 @@
 # rtv1
 My first raytracer!
 
+![screenshot](https://user-images.githubusercontent.com/24727426/30223945-239a28a6-94cd-11e7-8b4f-9bfd1bb1b95b.png)
+
 # How?
 ```
 git clone path rtv1_folder
