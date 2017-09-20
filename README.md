@@ -1,5 +1,5 @@
 # rtv1
-My first raytracer! The scene can handle only 2 lights. Refraction and multiple shadows.
+My first raytracer! The scene can handle 2 lights. Refraction and multiple shadows.
 
 ![screenshot](https://user-images.githubusercontent.com/24727426/30223945-239a28a6-94cd-11e7-8b4f-9bfd1bb1b95b.png)
 
